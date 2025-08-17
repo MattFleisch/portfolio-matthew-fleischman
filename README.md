@@ -1,2 +1,2 @@
 # portfolio-matthew-fleischman
-Portfolio of projects I have done relating to the field of AI - built for job applications
+This branch contains projects that are not yet completed.
