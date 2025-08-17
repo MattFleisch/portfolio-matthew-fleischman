@@ -1,4 +1,4 @@
-Project Goals
+*Project Goals*
     -	Users input a few interests (e.g. “AI research”, “renewable energy”)
     -	App finds recent articles related to those interests
     -	Clusters similar articles together using k-means
@@ -7,5 +7,6 @@ Project Goals
 
 
 Notes:
+
 
     - Insert you own API keys in the test cases
