@@ -1,12 +1,11 @@
-*Project Goals*
-    -	Users input a few interests (e.g. “AI research”, “renewable energy”)
-    -	App finds recent articles related to those interests
-    -	Clusters similar articles together using k-means
-    -	Summarizes each cluster into a short paragraph
-    -	Lets users search semantically through the summaries/articles
+# Project Goals
+- Users input a few interests (e.g. “AI research”, “renewable energy”)
+- App finds recent articles related to those interests
+- Clusters similar articles together using k-means
+- Summarizes each cluster into a short paragraph
+- Lets users search semantically through the summaries/articles
 
 
 Notes:
+- Insert you own API keys in the test cases
 
-
-    - Insert you own API keys in the test cases
