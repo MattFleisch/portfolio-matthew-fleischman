@@ -121,6 +121,10 @@ To modify the parameters of a specific control method, follow these instructions
 
 Adjust these parameters according to your needs to fine-tune the performance of the control methods.
 
+## Report
+
+See [Comparative Analysis of NEAT, PID, and Q-Learning](Comparative%20Analysis%20of%20NEAT,%20PID,%20and%20Q-Learning.pdf) for the report on this project. 
+
 ## Acknowledgements
 
 We would like to express our gratitude to our supervisor, Prof. K. Prag, for her invaluable guidance and feedback throughout this research project.
