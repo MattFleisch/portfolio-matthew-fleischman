@@ -57,4 +57,4 @@ ie.setEvidence({evidence_var: evidence_dict['Frost/Ice']})
 
 ## Report
 
-See 'Bayesian Networks for Car Accident Predictions.pdf' for the written report on this project.
+See [Bayesian Networks for Car Accident Predictions](Bayesian%20Networks%20for%20Car%20Accident%20Predictions.pdf) for the written report on this project.
