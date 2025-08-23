@@ -54,3 +54,7 @@ Urban_or_Rural_Area```
 ```
 ie.setEvidence({evidence_var: evidence_dict['Frost/Ice']})
 ```
+
+## Report
+
+See 'Bayesian Networks for Car Accident Predictions.pdf' for the written report on this project.
